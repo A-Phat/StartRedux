@@ -1,0 +1,11 @@
+{
+  "name": "StartRedux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CandyPhat/StartRedux.git",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "redux": "^4.0.4"
+  }
+}
